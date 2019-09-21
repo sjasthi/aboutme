@@ -1,2 +1,2 @@
-# bom
-Visual BOM 
+# about me
+About me 
